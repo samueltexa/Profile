@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samueltexa
 - 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with anyone i can
 - 📫 woolardsamuels@gmail.com
 - Tell:+256771172559
 - Tell: +1(205)858-3041
