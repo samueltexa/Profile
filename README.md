@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @samueltexa
-- 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 I’m currently learning software engineering
+- 👋 Hi, I’m @samuel A Harley
+- 👀Artificial intelligence
 - 💞️ I’m looking to collaborate with anyone i can
 - 📫 woolardsamuels@gmail.com
 - Tell:+256771172559
