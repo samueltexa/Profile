@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Samuel Alinda
-- 👀Artificial intelligence
-- 💞️ I’m looking to collaborate with anyone i can
-- 📫 woolardsamuels@gmail.com
-- Tell:+256771172559
-- Tell: +1(205)858-3041
+Full Stack Developer
+👀Artificial Intelligence and Machine Learning Engineer
+🚀 Passionate About Clean Code
+📚 Open Source Contributor
+💼 Seeking New Opportunities
+Skills: JavaScript, flutter, Node.js, Java, Python, HTML/CSS
