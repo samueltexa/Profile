@@ -3,4 +3,4 @@ Full Stack Developer
 🚀 Passionate About Clean Code
 📚 Open Source Contributor
 💼 Seeking New Opportunities
-Skills: JavaScript, flutter, Node.js, Java, Python, HTML/CSS
+Skills: JavaScript, Flutter, Node.js, Java, Python, HTML/CSS
