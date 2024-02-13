@@ -18,8 +18,8 @@ Full Stack Developer<br>👀Data Scientist And Analyst<br>🚀 Passionate About 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/woolardsamuels@gmai.com) 
+  ## 💰 You can contribute by buying me coffee:
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/woolardsamuels@gmail.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
